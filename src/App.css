@@ -1,0 +1,8 @@
+.webTitle {
+  font-family: nyt-karnakcondensed;
+  letter-spacing: 0.01em;
+  flex-grow: 2;
+  font-size: 36px;
+  text-align: center;
+  color: #464851;
+}
